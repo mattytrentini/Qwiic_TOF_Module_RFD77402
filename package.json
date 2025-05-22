@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["rfd77402.py", "github:zio/Qwiic_TOF_Module_RFD77402/micropython/rfd77402.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
